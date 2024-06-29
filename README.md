@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andrinawatsemba
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python begginer projects
+- 🌱 I’m currently learning python and data science
+- 💞️ I’m looking to collaborate on python and data science begginer projects
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
