@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @andrinawatsemba
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python and data science
-- 💞️ I’m looking to collaborate on python and data science begginer projects
-- 📫 How to reach me ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+Data science student, Python, ML and AI enthusiast,(still learning but enjoying the process)
 
 <!---
 andrinawatsemba/andrinawatsemba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
