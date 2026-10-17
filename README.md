@@ -1,6 +1,7 @@
-Data science student, Python, ML and AI enthusiast,(still learning but enjoying the process)
+# Hi, I'm Andrina Watsemba 
 
-<!---
-andrinawatsemba/andrinawatsemba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data Science & Analytics undergraduate at Uganda Christian University, Kampala. I build data pipelines, ML models and small AI tools, and I like taking them all the way to something people can actually use.
+
+ Currently learning how AI agents work: tool-calling, ReAct loops, and agent-driven data analysis.
+
+**Stack:** Python · SQL · pandas · scikit-learn · PyTorch · FastAPI · Streamlit · Docker · Power BI, excel,
