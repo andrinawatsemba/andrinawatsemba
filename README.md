@@ -9,10 +9,6 @@ interested in machine learning, deep learning, computer vision, and the engineer
 - NLP and low-resource language research
 - Exploring open-source ML infrastructure
 
-### Selected work
-- **Deepfake Image Detection** — Investigating real vs AI-generated image classification, generalization, and model evaluation.
-- **Messy Data Cleaner** — Building a human-in-the-loop tool for detecting and cleaning messy spreadsheet data.
-- **Low-resource NLP** — Exploring language accessibility and knowledge simplification for Luganda.
 
 ### Technologies
 Python · PyTorch · Scikit-learn · Pandas · SQL · Git · PyTorch · FastAPI · Streamlit · Docker · Power BI, excel,
